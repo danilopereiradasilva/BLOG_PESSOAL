@@ -1,0 +1,29 @@
+
+html{
+    scroll-behavior: smooth;
+    
+}
+
+.fs-54{
+    font-size: 54pt;
+}
+
+.fs-18{
+    font-size: 18pt; 
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Press Start 2P', cursive !important;
+}
+
+p{
+    font-family: 'Press Start 2P', cursive !important;
+}
+
+body{
+    font-family: 'Press Start 2P', cursive !important;
+}
+
+a{
+    font-family: 'Press Start 2P', cursive !important;
+}
